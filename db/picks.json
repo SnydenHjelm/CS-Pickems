@@ -1,0 +1,1489 @@
+[
+    {
+        "major": "ant22",
+        "stages": [
+            {
+                "stage": "challengers",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "ForZe",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "IHC",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Astralis",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "ENCE",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Outsiders",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Liquid",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Eternal Fire",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "legends",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Copenhagen Flames",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Bad News Eagles",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "HEROIC",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Cloud9",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "ENCE",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "champions",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "Ninjas in Pyjamas",
+                        "team2": "FaZe",
+                        "pickedWinner": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "Team Spirit",
+                        "team2": "FURIA",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "ENCE",
+                        "team2": "Copenhagen Flames",
+                        "pickedWinner": "ENCE",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "Natus Vincere",
+                        "team2": "HEROIC",
+                        "pickedWinner": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "FaZe",
+                        "team2": "FURIA",
+                        "pickedWinner": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "ENCE",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "FaZe",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "Natus Vincere",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "major": "rio22",
+        "stages": [
+            {
+                "stage": "challengers",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "GamerLegion",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Grayhound",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Cloud9",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "OG",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Outsiders",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "fnatic",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FURIA",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "00Nation",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "legends",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "FURIA",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Sprout",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Ninjas in Pyjamas",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "HEROIC",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Cloud9",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Outsiders",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "stage": "champions",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "Outsiders",
+                        "team2": "fnatic",
+                        "pickedWinner": "Outsiders",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "MOUZ",
+                        "team2": "Cloud9",
+                        "pickedWinner": "Cloud9",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "Team Spirit",
+                        "team2": "HEROIC",
+                        "pickedWinner": "HEROIC",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "FURIA",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "Natus Vincere",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "Outsiders",
+                        "team2": "Cloud9",
+                        "pickedWinner": "Cloud9",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "HEROIC",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "Natus Vincere",
+                        "correct": false
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "Cloud9",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "Natus Vincere",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "major": "par23",
+        "stages": [
+            {
+                "stage": "challengers",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "ForZe",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Fluxo",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "ENCE",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Liquid",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "MOUZ",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Ninjas in Pyjamas",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "OG",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "legends",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "9INE",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Into The Breach",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Natus Vincere",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "HEROIC",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "ENCE",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "stage": "champions",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "HEROIC",
+                        "team2": "FaZe",
+                        "pickedWinner": "HEROIC",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "Monte",
+                        "team2": "GamerLegion",
+                        "pickedWinner": "Monte",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "Liquid",
+                        "team2": "Apeks",
+                        "pickedWinner": "Liquid",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "Vitality",
+                        "team2": "Into The Breach",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "HEROIC",
+                        "team2": "Monte",
+                        "pickedWinner": "HEROIC",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "Liquid",
+                        "team2": "Vitality",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "HEROIC",
+                        "team2": "Vitality",
+                        "pickedWinner": "HEROIC",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "major": "cop24",
+        "stages": [
+            {
+                "stage": "opening",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Cloud9",
+                        "correct": true
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Eternal Fire",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Legacy",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Lynn Vision",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "The MongolZ",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FURIA",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Apeks",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "ENCE",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "SAW",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "HEROIC",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "elimination",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Virtus.pro",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Team Spirit",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Imperial",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "ECSTATIC",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "MOUZ",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "HEROIC",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "playoffs",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "Cloud9",
+                        "team2": "Vitality",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "Team Spirit",
+                        "team2": "FaZe",
+                        "pickedWinner": "Team Spirit",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "Eternal Fire",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "MOUZ",
+                        "team2": "G2",
+                        "pickedWinner": "MOUZ",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "Vitality",
+                        "team2": "Team Spirit",
+                        "pickedWinner": "Team Spirit",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "Natus Vincere",
+                        "team2": "MOUZ",
+                        "pickedWinner": "MOUZ",
+                        "correct": false
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "Team Spirit",
+                        "team2": "MOUZ",
+                        "pickedWinner": "Team Spirit",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "major": "sha24",
+        "stages": [
+            {
+                "stage": "opening",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Liquid",
+                        "correct": true
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Rare Atom",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "FlyQuest",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Cloud9",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "paiN",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Virtus.pro",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "fnatic",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Complexity",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "mibr",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "stage": "elimination",
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Natus Vincere",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "MOUZ",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "BIG",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Wildcard",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Team Spirit",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "The MongolZ",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Liquid",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "stage": "playoffs",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "The MongolZ",
+                        "team2": "MOUZ",
+                        "pickedWinner": "The MongolZ",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "Team Spirit",
+                        "team2": "Liquid",
+                        "pickedWinner": "Team Spirit",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "G2",
+                        "team2": "HEROIC",
+                        "pickedWinner": "G2",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "Vitality",
+                        "team2": "FaZe",
+                        "pickedWinner": "Vitality",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "The MongolZ",
+                        "team2": "Team Spirit",
+                        "pickedWinner": "The MongolZ",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "G2",
+                        "team2": "Vitality",
+                        "pickedWinner": "Vitality",
+                        "correct": false
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "The MongolZ",
+                        "team2": "Vitality",
+                        "pickedWinner": "The MongolZ",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "major": "aus25",
+        "stages": [
+            {
+                "stage": 1,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "HEROIC",
+                        "correct": true
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "BetBoom",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Chinggis Warriors",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Fluxo",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "OG",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Complexity",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Wildcard",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "TYLOO",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Legacy",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "B8",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": 2,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Falcons",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "HEROIC",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "M80",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Lynn Vision",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "3DMAX",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Virtus.pro",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FURIA",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "OG",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "BetBoom",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": 3,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Vitality",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Team Spirit",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Nemiga",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "G2",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "MOUZ",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Aurora",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "The MongolZ",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Virtus.pro",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "playoffs",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "FURIA",
+                        "team2": "paiN",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "FaZe",
+                        "team2": "The MongolZ",
+                        "pickedWinner": "FaZe",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "Natus Vincere",
+                        "team2": "Vitality",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "Team Spirit",
+                        "team2": "MOUZ",
+                        "pickedWinner": "Team Spirit",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "FURIA",
+                        "team2": "FaZe",
+                        "pickedWinner": "FaZe",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "Vitality",
+                        "team2": "Team Spirit",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "FaZe",
+                        "team2": "Vitality",
+                        "pickedWinner": "FaZe",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "major": "bud25",
+        "stages": [
+            {
+                "stage": 1,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "B8",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Legacy",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "RED Canids",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Rare Atom",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "GamerLegion",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Lynn Vision",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "PARIVISION",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Ninjas in Pyjamas",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FlyQuest",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": 2,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Aurora",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Imperial",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Passion UA",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Liquid",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "3DMAX",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Ninjas in Pyjamas",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FlyQuest",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "TYLOO",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": 3,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "FURIA",
+                        "correct": true
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Falcons",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Passion UA",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Imperial",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "MOUZ",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Team Spirit",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "playoffs",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "Team Spirit",
+                        "team2": "Falcons",
+                        "pickedWinner": "Team Spirit",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "Vitality",
+                        "team2": "The MongolZ",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "FURIA",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "MOUZ",
+                        "team2": "FaZe",
+                        "pickedWinner": "MOUZ",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "Team Spirit",
+                        "team2": "Vitality",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "FURIA",
+                        "team2": "MOUZ",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "Vitality",
+                        "team2": "FURIA",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "major": "col26",
+        "stages": [
+            {
+                "stage": 1,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "GamerLegion",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "B8",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Gaimin Gladiators",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "tHUNDER DOWNUNDER",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "BetBoom",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "HEROIC",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "BIG",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "M80",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "mibr",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "SINNERS",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": 2,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "Legacy",
+                        "correct": false
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Team Spirit",
+                        "correct": true
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "TYLOO",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "FlyQuest",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FUT",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "GamerLegion",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "BetBoom",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "paiN",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "9z",
+                        "correct": true
+                    }
+                ]
+            },
+            {
+                "stage": 3,
+                "picks": [
+                    {
+                        "pick": "3-0",
+                        "team": "FURIA",
+                        "correct": true
+                    },
+                    {
+                        "pick": "3-0",
+                        "team": "Falcons",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Passion UA",
+                        "correct": false
+                    },
+                    {
+                        "pick": "0-3",
+                        "team": "Imperial",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "MOUZ",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "FaZe",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "G2",
+                        "correct": false
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Natus Vincere",
+                        "correct": true
+                    },
+                    {
+                        "pick": "advance",
+                        "team": "Team Spirit",
+                        "correct": false
+                    }
+                ]
+            },
+            {
+                "stage": "playoffs",
+                "picks": [
+                    {
+                        "game": "qf1",
+                        "team1": "Team Spirit",
+                        "team2": "Falcons",
+                        "pickedWinner": "Team Spirit",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf2",
+                        "team1": "Vitality",
+                        "team2": "The MongolZ",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "qf3",
+                        "team1": "FURIA",
+                        "team2": "Natus Vincere",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "game": "qf4",
+                        "team1": "MOUZ",
+                        "team2": "FaZe",
+                        "pickedWinner": "MOUZ",
+                        "correct": false
+                    },
+                    {
+                        "game": "sf1",
+                        "team1": "Team Spirit",
+                        "team2": "Vitality",
+                        "pickedWinner": "Vitality",
+                        "correct": true
+                    },
+                    {
+                        "game": "sf2",
+                        "team1": "FURIA",
+                        "team2": "MOUZ",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    },
+                    {
+                        "game": "gf",
+                        "team1": "Vitality",
+                        "team2": "FURIA",
+                        "pickedWinner": "FURIA",
+                        "correct": false
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "name": "PGL Major Antwerp 2022",
+        "code": "ant22",
+        "year": 2022,
+        "city": "Antwerp, Belgium",
+        "venue": "Antwerps Sportpaleis",
+        "champion": "FaZe",
+        "startDate": "2022-05-09",
+        "endDate": "2022-05-22",
+        "pickemFormat": "old"
+    },
+    {
+        "name": "IEM Rio Major 2022",
+        "code": "rio22",
+        "year": 2022,
+        "city": "Rio de Janeiro, Brazil",
+        "venue": "Jeunesse Arena",
+        "champion": "Outsiders",
+        "startDate": "2022-10-31",
+        "endDate": "2022-11-13",
+        "pickemFormat": "old"
+    },
+    {
+        "name": "BLAST.tv Paris Major 2023",
+        "code": "par23",
+        "year": 2023,
+        "city": "Paris, France",
+        "venue": "Accor Arena",
+        "champion": "Vitality",
+        "startDate": "2023-05-08",
+        "endDate": "2023-05-21",
+        "pickemFormat": "old"
+    },
+    {
+        "name": "PGL Major Copenhagen 2024",
+        "code": "cop24",
+        "year": 2024,
+        "city": "Copenhagen, Denmark",
+        "venue": "Royal Arena",
+        "champion": "Natus Vincere",
+        "startDate": "2024-03-17",
+        "endDate": "2024-03-31",
+        "pickemFormat": "new"
+    },
+    {
+        "name": "Perfect World Shanghai Major 2024",
+        "code": "sha24",
+        "year": 2024,
+        "city": "Shanghai, China",
+        "venue": "Shanghai Oriental Sports Center",
+        "champion": "Team Spirit",
+        "startDate": "2024-11-30",
+        "endDate": "2024-12-15",
+        "pickemFormat": "new"
+    },
+    {
+        "name": "BLAST.tv Austin Major 2025",
+        "code": "aus25",
+        "year": 2025,
+        "city": "Austin, Texas, USA",
+        "venue": "Moody Center",
+        "champion": "Vitality",
+        "startDate": "2025-06-03",
+        "endDate": "2025-06-22",
+        "pickemFormat": "new"
+    },
+    {
+        "name": "StarLadder Budapest Major 2025",
+        "code": "bud25",
+        "year": 2025,
+        "city": "Budapest, Hungary",
+        "venue": "MVM Dome",
+        "champion": "Vitality",
+        "startDate": "2025-11-24",
+        "endDate": "2025-12-14",
+        "pickemFormat": "new"
+    },
+    {
+        "name": "IEM Cologne Major 2026",
+        "code": "col26",
+        "year": 2026,
+        "city": "Cologne, Germany",
+        "venue": "LANXESS Arena",
+        "champion": "TBD",
+        "startDate": "2026-06-02",
+        "endDate": "2025-06-21",
+        "pickemFormat": "new"
+    },
+    {
+        "name": "PGL Major Singapore 2026",
+        "code": "sin26",
+        "year": 2026,
+        "city": "Singapore, Singapore",
+        "venue": "Singapore Indoor Stadium",
+        "champion": "TBD",
+        "startDate": "2026-11-25",
+        "endDate": "2026-12-13",
+        "pickemFormat": "new"
+    },
+    {
+        "name": "FiRe Major Buenos Aires 2027",
+        "code": "bue27",
+        "year": 2027,
+        "city": "Buenos Aires, Argentina",
+        "venue": "TBD",
+        "champion": "TBD",
+        "startDate": "2027-05-31",
+        "endDate": "2027-06-20",
+        "pickemFormat": "new"
+    }
+]
