@@ -1,0 +1,10 @@
+:root {
+    --cs2-yellow: #fdac1a;
+    --cs2blue: #2b397f;
+}
+
+body {
+    background-color: var(--cs2-yellow);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
