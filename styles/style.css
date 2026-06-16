@@ -4,7 +4,27 @@
 }
 
 body {
-    background-color: var(--cs2-yellow);
+    background-color: lightgoldenrodyellow;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.correct {
+    background-color: lightgreen !important;
+}
+
+.incorrect {
+    background-color: tomato !important;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+main > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

@@ -55,6 +55,11 @@ switch ($method) {
             readfile(dirname(__DIR__) . '/styles/' . $splitUrl[2]);
             exit;
         }
+
+        if ($splitUrl[1] === "images") {
+            header("Content-Type: image/png");
+            readfile(dirname(__DIR__) . '/images/' . $splitUrl[2]);
+        }
     }
 }
 

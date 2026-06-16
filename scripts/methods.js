@@ -1,3 +1,15 @@
+const coin = (value) => {
+    switch (value) {
+        case "bronze": return "Bronze Coin";
+
+        case "silver": return "Silver Coin";
+
+        case "gold": return "Gold Coin";
+
+        case "diamond": return "Diamond Coin";
+    }
+}
+
 const driver = async () => {
     await spawn.options();
     await eListeners.select();
@@ -15,16 +27,10 @@ const eListeners = {
     async select() {
         let major = await req.send(`majors?major=${elements.select.value}`);
         elements.majorName.textContent = major.name;
-    }
-}
+        update.coinResult(coin(major.coin), major.code);
 
-const req = {
-    async send(path) {
-        try {
-            let resp = await fetch(`http://localhost:8000/${path}`);
-            return await resp.json();
-        } catch(e) {
-            console.log(e.message);
+        if (major.pickemFormat === "old") {
+            oldPicks.display(major.code);
         }
     }
 }
@@ -39,5 +45,12 @@ const spawn = {
             opt.textContent = x.name;
             elements.select.appendChild(opt);
         });
+    }
+}
+
+const update = {
+    coinResult(h2, name) {
+        oldElements.coinResult.h2.textContent = h2;
+        oldElements.coinResult.img.setAttribute("src", `images/${name}.png`);
     }
 }

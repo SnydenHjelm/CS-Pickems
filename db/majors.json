@@ -8,7 +8,8 @@
         "champion": "FaZe",
         "startDate": "2022-05-09",
         "endDate": "2022-05-22",
-        "pickemFormat": "old"
+        "pickemFormat": "old",
+        "coin": "gold"
     },
     {
         "name": "IEM Rio Major 2022",
@@ -19,7 +20,8 @@
         "champion": "Outsiders",
         "startDate": "2022-10-31",
         "endDate": "2022-11-13",
-        "pickemFormat": "old"
+        "pickemFormat": "old",
+        "coin": "gold"
     },
     {
         "name": "BLAST.tv Paris Major 2023",
@@ -30,7 +32,8 @@
         "champion": "Vitality",
         "startDate": "2023-05-08",
         "endDate": "2023-05-21",
-        "pickemFormat": "old"
+        "pickemFormat": "old",
+        "coin": "gold"
     },
     {
         "name": "PGL Major Copenhagen 2024",
@@ -41,7 +44,8 @@
         "champion": "Natus Vincere",
         "startDate": "2024-03-17",
         "endDate": "2024-03-31",
-        "pickemFormat": "new"
+        "pickemFormat": "new",
+        "coin": "gold"
     },
     {
         "name": "Perfect World Shanghai Major 2024",
@@ -52,7 +56,8 @@
         "champion": "Team Spirit",
         "startDate": "2024-11-30",
         "endDate": "2024-12-15",
-        "pickemFormat": "new"
+        "pickemFormat": "new",
+        "coin": "gold"
     },
     {
         "name": "BLAST.tv Austin Major 2025",
@@ -63,7 +68,8 @@
         "champion": "Vitality",
         "startDate": "2025-06-03",
         "endDate": "2025-06-22",
-        "pickemFormat": "new"
+        "pickemFormat": "new",
+        "coin": "gold"
     },
     {
         "name": "StarLadder Budapest Major 2025",
@@ -74,7 +80,8 @@
         "champion": "Vitality",
         "startDate": "2025-11-24",
         "endDate": "2025-12-14",
-        "pickemFormat": "new"
+        "pickemFormat": "new",
+        "coin": "gold"
     },
     {
         "name": "IEM Cologne Major 2026",
@@ -85,7 +92,8 @@
         "champion": "TBD",
         "startDate": "2026-06-02",
         "endDate": "2025-06-21",
-        "pickemFormat": "new"
+        "pickemFormat": "new",
+        "coin": "TBD"
     },
     {
         "name": "PGL Major Singapore 2026",
@@ -96,7 +104,8 @@
         "champion": "TBD",
         "startDate": "2026-11-25",
         "endDate": "2026-12-13",
-        "pickemFormat": "new"
+        "pickemFormat": "new",
+        "coin": "TBD"
     },
     {
         "name": "FiRe Major Buenos Aires 2027",
@@ -107,6 +116,7 @@
         "champion": "TBD",
         "startDate": "2027-05-31",
         "endDate": "2027-06-20",
-        "pickemFormat": "new"
+        "pickemFormat": "new",
+        "coin": "TBD"
     }
 ]
