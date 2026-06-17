@@ -50,7 +50,7 @@ const spawn = {
 
 const update = {
     coinResult(h2, name) {
-        oldElements.coinResult.h2.textContent = h2;
+        oldElements.coinResult.h2.textContent = "Result: " + h2;
         oldElements.coinResult.img.setAttribute("src", `images/${name}.png`);
     }
 }

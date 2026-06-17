@@ -7,13 +7,26 @@
     height: 100px;
 }
 
+#old {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 .old-30-03 {
     display: flex;
+    justify-content: center;
     gap: 100px;
 }
 
 .old-advanced {
     display: flex;
+    gap: 20px;
+}
+
+.old-group {
+    display: flex;
+    flex-direction: column;
     gap: 20px;
 }
 
@@ -26,7 +39,7 @@
 
 .pick img {
     height: 100px;
-    width: 100%;
+    width: 100px;
     object-fit: contain;
 }
 
