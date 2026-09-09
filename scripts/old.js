@@ -33,6 +33,7 @@ const oldPicks = {
             let team = this.hasSpace(pickInfo.team);
 
             x.children[0].setAttribute("src", `images/${team}.png`);
+            x.children[0].setAttribute("title", pickInfo.team);
             x.children[1].textContent = pickInfo.pick;
             this.removeClasses(x);
             if (pickInfo.correct) x.classList.add("correct")
@@ -44,6 +45,7 @@ const oldPicks = {
             let team = this.hasSpace(pickInfo[i].team);
 
             x.children[0].setAttribute("src", `images/${team}.png`);
+            x.children[0].setAttribute("title", pickInfo[i].team);
             x.children[1].textContent = pickInfo[i].pick;
             this.removeClasses(x);
             if (pickInfo[i].correct) x.classList.add("correct")
