@@ -1,0 +1,43 @@
+.playoffs {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.playoff-wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.playoff-wrapper > div div {
+    display: grid;
+    grid-template-columns: 40px 100px 20px 100px 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    align-items: center;
+    padding: 10px;
+}
+
+.playoff-wrapper > div div img {
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+    justify-self: center;
+}
+
+.playoff-wrapper > div div p {
+    text-align: center;
+}
+
+.gf {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.qf, .sf {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 10px;
+}

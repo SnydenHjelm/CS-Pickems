@@ -106,42 +106,42 @@
                 "stage": "champions",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "Ninjas in Pyjamas",
                         "team2": "FaZe",
                         "pickedWinner": "FaZe",
                         "correct": true
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "Team Spirit",
                         "team2": "FURIA",
                         "pickedWinner": "FURIA",
                         "correct": false
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "ENCE",
                         "team2": "Copenhagen Flames",
                         "pickedWinner": "ENCE",
                         "correct": true
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "Natus Vincere",
                         "team2": "HEROIC",
                         "pickedWinner": "Natus Vincere",
                         "correct": true
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "FaZe",
                         "team2": "FURIA",
                         "pickedWinner": "FaZe",
                         "correct": true
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "ENCE",
                         "team2": "Natus Vincere",
                         "pickedWinner": "Natus Vincere",
@@ -265,42 +265,42 @@
                 "stage": "champions",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "Outsiders",
                         "team2": "fnatic",
                         "pickedWinner": "Outsiders",
                         "correct": true
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "MOUZ",
                         "team2": "Cloud9",
                         "pickedWinner": "Cloud9",
                         "correct": false
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "Team Spirit",
                         "team2": "HEROIC",
                         "pickedWinner": "HEROIC",
                         "correct": true
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "FURIA",
                         "team2": "Natus Vincere",
                         "pickedWinner": "Natus Vincere",
                         "correct": false
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "Outsiders",
                         "team2": "Cloud9",
                         "pickedWinner": "Cloud9",
                         "correct": false
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "HEROIC",
                         "team2": "Natus Vincere",
                         "pickedWinner": "Natus Vincere",
@@ -424,42 +424,42 @@
                 "stage": "champions",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "HEROIC",
                         "team2": "FaZe",
                         "pickedWinner": "HEROIC",
                         "correct": true
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "Monte",
                         "team2": "GamerLegion",
                         "pickedWinner": "Monte",
                         "correct": false
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "Liquid",
                         "team2": "Apeks",
                         "pickedWinner": "Liquid",
                         "correct": false
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "Vitality",
                         "team2": "Into The Breach",
                         "pickedWinner": "Vitality",
                         "correct": true
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "HEROIC",
                         "team2": "Monte",
                         "pickedWinner": "HEROIC",
                         "correct": false
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "Liquid",
                         "team2": "Vitality",
                         "pickedWinner": "Vitality",
@@ -593,42 +593,42 @@
                 "stage": "playoffs",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "Cloud9",
                         "team2": "Vitality",
                         "pickedWinner": "Vitality",
                         "correct": true
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "Team Spirit",
                         "team2": "FaZe",
                         "pickedWinner": "Team Spirit",
                         "correct": false
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "Eternal Fire",
                         "team2": "Natus Vincere",
                         "pickedWinner": "Natus Vincere",
                         "correct": true
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "MOUZ",
                         "team2": "G2",
                         "pickedWinner": "MOUZ",
                         "correct": false
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "Vitality",
                         "team2": "Team Spirit",
                         "pickedWinner": "Team Spirit",
                         "correct": false
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "Natus Vincere",
                         "team2": "MOUZ",
                         "pickedWinner": "MOUZ",
@@ -762,42 +762,42 @@
                 "stage": "playoffs",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "The MongolZ",
                         "team2": "MOUZ",
                         "pickedWinner": "The MongolZ",
                         "correct": false
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "Team Spirit",
                         "team2": "Liquid",
                         "pickedWinner": "Team Spirit",
                         "correct": true
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "G2",
                         "team2": "HEROIC",
                         "pickedWinner": "G2",
                         "correct": true
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "Vitality",
                         "team2": "FaZe",
                         "pickedWinner": "Vitality",
                         "correct": false
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "The MongolZ",
                         "team2": "Team Spirit",
                         "pickedWinner": "The MongolZ",
                         "correct": false
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "G2",
                         "team2": "Vitality",
                         "pickedWinner": "Vitality",
@@ -986,42 +986,42 @@
                 "stage": "playoffs",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "FURIA",
                         "team2": "paiN",
                         "pickedWinner": "FURIA",
                         "correct": false
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "FaZe",
                         "team2": "The MongolZ",
                         "pickedWinner": "FaZe",
                         "correct": false
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "Natus Vincere",
                         "team2": "Vitality",
                         "pickedWinner": "Vitality",
                         "correct": true
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "Team Spirit",
                         "team2": "MOUZ",
                         "pickedWinner": "Team Spirit",
                         "correct": false
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "FURIA",
                         "team2": "FaZe",
                         "pickedWinner": "FaZe",
                         "correct": false
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "Vitality",
                         "team2": "Team Spirit",
                         "pickedWinner": "Vitality",
@@ -1210,42 +1210,42 @@
                 "stage": "playoffs",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "Team Spirit",
                         "team2": "Falcons",
                         "pickedWinner": "Team Spirit",
                         "correct": true
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "Vitality",
                         "team2": "The MongolZ",
                         "pickedWinner": "Vitality",
                         "correct": true
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "FURIA",
                         "team2": "Natus Vincere",
                         "pickedWinner": "FURIA",
                         "correct": false
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "MOUZ",
                         "team2": "FaZe",
                         "pickedWinner": "MOUZ",
                         "correct": false
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "Team Spirit",
                         "team2": "Vitality",
                         "pickedWinner": "Vitality",
                         "correct": true
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "FURIA",
                         "team2": "MOUZ",
                         "pickedWinner": "FURIA",
@@ -1434,42 +1434,42 @@
                 "stage": "playoffs",
                 "picks": [
                     {
-                        "game": "qf1",
+                        "game": "qf",
                         "team1": "Team Spirit",
                         "team2": "Falcons",
                         "pickedWinner": "Team Spirit",
                         "correct": true
                     },
                     {
-                        "game": "qf2",
+                        "game": "qf",
                         "team1": "Vitality",
                         "team2": "The MongolZ",
                         "pickedWinner": "Vitality",
                         "correct": true
                     },
                     {
-                        "game": "qf3",
+                        "game": "qf",
                         "team1": "FURIA",
                         "team2": "Natus Vincere",
                         "pickedWinner": "FURIA",
                         "correct": false
                     },
                     {
-                        "game": "qf4",
+                        "game": "qf",
                         "team1": "MOUZ",
                         "team2": "FaZe",
                         "pickedWinner": "MOUZ",
                         "correct": false
                     },
                     {
-                        "game": "sf1",
+                        "game": "sf",
                         "team1": "Team Spirit",
                         "team2": "Vitality",
                         "pickedWinner": "Vitality",
                         "correct": true
                     },
                     {
-                        "game": "sf2",
+                        "game": "sf",
                         "team1": "FURIA",
                         "team2": "MOUZ",
                         "pickedWinner": "FURIA",

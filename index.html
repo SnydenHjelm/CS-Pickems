@@ -6,10 +6,15 @@
     <title>CS Pickems</title>
     <link rel="stylesheet" href="styles/style.css">
     <link rel="stylesheet" href="styles/old.css">
+    <link rel="stylesheet" href="styles/playoffs.css">
 </head>
 <body>
     <h1>SnydenHjelm's CS Pick'Ems</h1>
     <p>Browse my picks from Antwerp 2022 and forward</p>
+    <div id="loading">
+        <img src="images/loading.gif">
+        <p>Please wait...</p>
+    </div>
     <select id="major"></select>
     <h2 id="major-name"></h2>
     <main>
@@ -51,9 +56,30 @@
                     <div pick="advance" class="pick"><img><p></p></div>
                 </div>
             </div>
+
+            <div stage="playoffs" class="playoffs">
+                <h2>Champions Stage</h2>
+                <h3>Bold = Team I picked to win</h3>
+                <div class="playoff-wrapper">
+                    <div game="qf" class="qf">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <div game="sf" class="sf">
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <div game="gf" class="gf">
+                        <div></div>
+                    </div>
+                </div>
+            </div>
         </div>
     </main>
     <script src="scripts/req.js"></script>
+    <script src="scripts/playoffs.js"></script>
     <script src="scripts/old.js"></script>
     <script src="scripts/methods.js"></script>
     <script src="scripts/script.js"></script>

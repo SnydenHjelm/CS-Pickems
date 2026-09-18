@@ -1,5 +1,5 @@
 :root {
-    --cs2-yellow: #fdac1a;
+    --cs2yellow: #fdac1a;
     --cs2blue: #2b397f;
 }
 
@@ -17,6 +17,14 @@ body {
     background-color: lightcoral !important;
 }
 
+#loading {
+    display: none;
+}
+
+#loading img {
+    height: 75px;
+}
+
 main {
     display: flex;
     flex-direction: column;
@@ -27,4 +35,8 @@ main > div {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.picked {
+    font-weight: 600;
 }

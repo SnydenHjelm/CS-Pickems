@@ -21,6 +21,7 @@ const oldPicks = {
         let picks = await req.send(`picks?major=${major}`);
         this.group(picks.stages.find(x => x.stage === "challengers"), "challengers");
         this.group(picks.stages.find(x => x.stage === "legends"), "legends");
+        playoffs.display(picks.stages.find(x => x.stage === "champions"));
     },
 
     group(picks, stage) {
@@ -30,7 +31,7 @@ const oldPicks = {
         [...challengers3003.children].forEach(x => {
             let pick = x.getAttribute("pick");
             let pickInfo = picks.picks.find(y => y.pick === pick);
-            let team = this.hasSpace(pickInfo.team);
+            let team = hasSpace(pickInfo.team);
 
             x.children[0].setAttribute("src", `images/${team}.png`);
             x.children[0].setAttribute("title", pickInfo.team);
@@ -42,7 +43,7 @@ const oldPicks = {
 
         [...challengersAdvanced.children].forEach((x, i) => {
             let pickInfo = picks.picks.filter(y => y.pick === "advance");
-            let team = this.hasSpace(pickInfo[i].team);
+            let team = hasSpace(pickInfo[i].team);
 
             x.children[0].setAttribute("src", `images/${team}.png`);
             x.children[0].setAttribute("title", pickInfo[i].team);
@@ -51,16 +52,6 @@ const oldPicks = {
             if (pickInfo[i].correct) x.classList.add("correct")
             else x.classList.add("incorrect");
         });
-    },
-
-    hasSpace(name) {
-        let splitName = name.split(" ");
-
-        if (splitName.length > 1) {
-            return name.replaceAll(" ", "");
-        } else {
-            return name;
-        }
     },
 
     removeClasses(e) {
